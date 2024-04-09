@@ -1,9 +1,9 @@
 # Overview GitHub tools for agile product planning
 
-## Create a repository for the project.
+## Create a Repository for the Project.
 - The following applies to the menu in this repository.
 
-## Add template for user stories
+## Add Template for User Stories
 
 - Click on settings on the main bar.
 - Scroll down to “Features” heading, and inside “Issues” click on “Set up templates.”
@@ -46,7 +46,7 @@
   - Browse to the product backlog main page.
   - Click on “Closed” tab on top of the PBI list.
 
-## Reference a PBI using the link feature
+## Reference a PBI Using the Link Feature
 - Reference items in the description field or in the comment field.
 - Click on the PBI item.
 - Click on the “...” on the  top of the issue details page.
@@ -60,7 +60,7 @@
 - Browse to the PBI (the "issue") and open.
 - Scroll down "Delete issue" with the trash bin icon next to it.
 
-## Create an iteration
+## Create Iteration
 - Create a  timebox for an iteration and assign PBIs to it.
 - Click on “Milestones“.
 - Click on “New Milestone“ and name it.
@@ -87,6 +87,39 @@
 - In the section “Milestones”, choose the desired Product Backlog.
 - Check the boxes next to the PBIs to be labelled.
 - Select the desired label from the dropdown menu “Label” at the top of the PBIs (“issues”).
+
+## Create Iteration Board 
+- Click on “Create a project”.
+- Name the project.
+- Add description.
+- Click on “Create Project” to save. 
+- Delete the  pre-populated cards in the “To-do” column:
+  - Click on the three dots on the top right  side of each card, 
+  - Select “Delete note”
+- Add User Stories to the board.
+  - Click on “ + Add Card” next to the “Filter Card” field.  
+  - With the side menu open, enter the name of the iteration (“Milestone”) in the search field 
+  - Other filters:
+    - Click on the “Issue search” link to see them.
+  - Drag and drop User story cards to the “To Do” column of the board. 
+  - Place them in order of effort, i.e. must-haves on the top in descending story-point order.  
+- Update an existing column on the Board:
+  - Update an existing column:
+  - Click on the three dots “…”
+  - Select “Edit column”
+- Add new columns:
+  - Click on “ + Add columns”.
+- Update a project status of completed project on the bord:
+  - Click on “Menu” on the top right menu.
+  - Click on “Close project”.
+  - The status of the project board is now “closed”.
+Delete a board:
+  - Click on “Menu” on the top right menu.
+  - Click on the three dots “…”
+  - Select “Edit”.
+  - Click on “Delete project”.
+
+
 
 
 
