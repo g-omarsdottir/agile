@@ -1,5 +1,8 @@
 # Overview GitHub tools for agile product planning
 
+## Create a repository for the project.
+- The following applies to the menu in this repository.
+
 ## Add template for user stories
 
 - Click on settings on the main bar.
