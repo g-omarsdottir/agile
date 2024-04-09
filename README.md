@@ -25,30 +25,32 @@
 - Select the correct "milestone" (Product Backlog) from the dropdown menu.
 - The name of the milestone now appears under the name of the issue in section issues.  
 - You can also create user stories  from inside the milestone. Click “New Issue”.
-- No need to assign this to the backlog, it's already part of it.
+  - No need to assign this to the backlog, it's already part of it.
 
 ## Maintain Backlog
 
 - Browse to the backlog.
-- To reprioritise a PBI, first, hover the cursor over the task you want to prioritize. You’ll notice a dotted icon appearing just before the checkbox. Use this icon to drag and drop the  selected task up or down to change the PBIs order.
+- To reprioritise a PBI:
+  - Hover the cursor over the task you want to prioritize.
+  - Use the dotted icon appearing just before the checkbox this icon to drag and drop the selected task up or down to change the PBIs order.
 - To archive a PBI:
   - click on the PBI item.
   - Scroll down the page to the issue details.
   - Add to the text area and select "comment and close" the PBI.
   - the Issue History is updates  to indicate that the item is closed.
   - reopen the item again at any time by  adding a comment and clicking on “Reopen Issue”.
-- To review the list of closed items,
-  - browse to the product backlog main page  
-  - click on “Closed” tab on top of the PBI list.
+- To review the list of closed items:
+  - Browse to the product backlog main page.
+  - Click on “Closed” tab on top of the PBI list.
 
 ## Reference a PBI using the link feature
 - Reference items in the description field or in the comment field.
 - Click on the PBI item.
 - Click on the “...” on the  top of the issue details page.
-- Click on Edit.
-- In the edit view in the text box ("write" field),
-  - Type hash '#'
-  - and a contextual menu will appear to suggest the  list of issues to link to.
+- Click on "Edit".
+- In the edit view:
+  - Type hash '#' in the text box ("write" field).
+  - A contextual menu will appear to suggest the list of issues to link to.
 
 
 ## Delete PBI
@@ -57,3 +59,4 @@
 
 
 
+*References: Code Institute's Learning Material on Agile.*
