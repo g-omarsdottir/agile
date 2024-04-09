@@ -60,6 +60,23 @@
 - Browse to the PBI (the "issue") and open.
 - Scroll down "Delete issue" with the trash bin icon next to it.
 
+## Create an iteration with Github.
+- Create a  timebox for an iteration and assign PBIs to it.
+- Click on “Milestones“.
+- Click on “New Milestone“ and name it.
+- Add a due date (if applicable).
+- Add “description” (if applicable).
+- Click “Create Milestone”.
+- Move stories from another milestone to be iterated to this new milestone:
+  - Click on the said milestone
+  - Select the user stories or PBIs to be completed in this iteration. 
+  - Once selected, click on “Milestone” of the iteration, the stories should be moved to.
+  - Select the target iteration from the drop-down menu.
+- To confirm that they are actually moved to the target milestone to be iterated.
+  - Click on “Milestones”  
+  - Select the milestone to be iterated.
+  - The PBIs should now show within this iteration (milestone).
+
 
 
 *References: Code Institute's Learning Material on Agile.*
