@@ -60,7 +60,7 @@
 - Browse to the PBI (the "issue") and open.
 - Scroll down "Delete issue" with the trash bin icon next to it.
 
-## Create an iteration with Github.
+## Create an iteration
 - Create a  timebox for an iteration and assign PBIs to it.
 - Click on “Milestones“.
 - Click on “New Milestone“ and name it.
@@ -76,6 +76,17 @@
   - Click on “Milestones”  
   - Select the milestone to be iterated.
   - The PBIs should now show within this iteration (milestone).
+
+## Create and Assign Labels
+- Navigate to section “Labels” in the top menu.
+- Click on “New Label.”
+- Edit or add to the label name on the form (if applicable).
+- Add a description (if applicable).
+- Customize the label color using default colors or hexadecimal color code.
+- Click on ”Create Label”.
+- In the section “Milestones”, choose the desired Product Backlog.
+- Check the boxes next to the PBIs to be labelled.
+- Select the desired label from the dropdown menu “Label” at the top of the PBIs (“issues”).
 
 
 
