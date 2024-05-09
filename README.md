@@ -5,7 +5,7 @@
 
 ## Add Template for User Stories
 
-- Click on settings on the main bar.
+- Click on "Settings" on the main bar.
 - Scroll down to “Features” heading, and inside “Issues” click on “Set up templates.”
 - Click on “Add a template” and choose “Custom Template.”
 - Click on “Preview and Edit”.
