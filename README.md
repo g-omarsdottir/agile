@@ -62,6 +62,7 @@
 
 ## Create Iteration
 - Create a  timebox for an iteration and assign PBIs to it.
+- Navigate to "Issues".
 - Click on “Milestones“.
 - Click on “New Milestone“ and name it.
 - Add a due date (if applicable).
