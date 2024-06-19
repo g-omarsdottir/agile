@@ -20,13 +20,44 @@
 - Go to hidden folder in the repository named, ".github".
 - This folder contains a markdown file which contains the User Story.
 
-## Add Product Backlog
+## Create Iteration Board 
+- Click on “Create a project”.
+- Name the project.
+- Add description.
+- Click on “Create Project” to save. 
+- Delete the  pre-populated cards in the “To-do” column:
+  - Click on the three dots on the top right  side of each card, 
+  - Select “Delete note”
+- Add User Stories to the board.
+  - Click on “ + Add Card” next to the “Filter Card” field.  
+  - With the side menu open, enter the name of the iteration (“Milestone”) in the search field 
+  - Other filters:
+    - Click on the “Issue search” link to see them.
+  - Drag and drop User story cards to the “To Do” column of the board. 
+  - Place them in order of effort, i.e. must-haves on the top in descending story-point order.  
+- Update an existing column on the Board:
+  - Update an existing column:
+  - Click on the three dots “…”
+  - Select “Edit column”
+- Add new columns:
+  - Click on “ + Add columns”.
+- Update a project status of completed project on the bord:
+  - Click on “Menu” on the top right menu.
+  - Click on “Close project”.
+  - The status of the project board is now “closed”.
+Delete a board:
+  - Click on “Menu” on the top right menu.
+  - Click on the three dots “…”
+  - Select “Edit”.
+  - Click on “Delete project”.
 
-- “Create a new milestone.”
+## Add Product Backlog (?)
+
+- Create "New Project.”
 - In section Issues, click on the user stories to be part of the Product Backlog
 - Check the boxes for the user stories to be included.
-- Select the correct "milestone" (Product Backlog) from the dropdown menu.
-- The name of the milestone now appears under the name of the issue in section issues.  
+- Select the correct "Project" (Product Backlog) from the dropdown menu.
+- The name of the project now appears under the name of the issue in section issues.  
 - You can also create user stories  from inside the milestone. Click “New Issue”.
   - No need to assign this to the backlog, it's already part of it.
 
@@ -88,37 +119,6 @@
 - In the section “Milestones”, choose the desired Product Backlog.
 - Check the boxes next to the PBIs to be labelled.
 - Select the desired label from the dropdown menu “Label” at the top of the PBIs (“issues”).
-
-## Create Iteration Board 
-- Click on “Create a project”.
-- Name the project.
-- Add description.
-- Click on “Create Project” to save. 
-- Delete the  pre-populated cards in the “To-do” column:
-  - Click on the three dots on the top right  side of each card, 
-  - Select “Delete note”
-- Add User Stories to the board.
-  - Click on “ + Add Card” next to the “Filter Card” field.  
-  - With the side menu open, enter the name of the iteration (“Milestone”) in the search field 
-  - Other filters:
-    - Click on the “Issue search” link to see them.
-  - Drag and drop User story cards to the “To Do” column of the board. 
-  - Place them in order of effort, i.e. must-haves on the top in descending story-point order.  
-- Update an existing column on the Board:
-  - Update an existing column:
-  - Click on the three dots “…”
-  - Select “Edit column”
-- Add new columns:
-  - Click on “ + Add columns”.
-- Update a project status of completed project on the bord:
-  - Click on “Menu” on the top right menu.
-  - Click on “Close project”.
-  - The status of the project board is now “closed”.
-Delete a board:
-  - Click on “Menu” on the top right menu.
-  - Click on the three dots “…”
-  - Select “Edit”.
-  - Click on “Delete project”.
 
 
 
